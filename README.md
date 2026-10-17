@@ -29,9 +29,7 @@ AutoWorth analyses 6,793 cleaned used-car listings, compares two regression mode
 - 🔒 Leakage-safe scikit-learn pipeline (imputation, scaling and one-hot encoding fitted on training data only)
 - 📊 Interactive Plotly charts and a model comparison tab
 - 💰 Live price estimator with an expected range (prediction ± the model's MAE)
-
-## 📸 Screenshots
-
+  
 ## 📸 Screenshots
 
 ### Overview
