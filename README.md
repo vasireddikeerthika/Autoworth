@@ -32,18 +32,20 @@ AutoWorth analyses 6,793 cleaned used-car listings, compares two regression mode
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](overview.png.png)
 
 ### Data Analysis
-![Data Analysis](screenshots/data_analysis_1.png)
-![Price by fuel type and car age](screenshots/data_analysis_2.png)
+![Data Analysis](data_analysis_1.png.png)
+![Price by fuel type and car age](data_analysis_2.png.png)
 
 ### Model Comparison
-![Model Comparison](screenshots/model_comparison.png)
+![Model Comparison](model_comparison.png.png)
 
 ### Price Prediction
-![Price Prediction](screenshots/price_prediction.png)
+![Price Prediction](price_prediction.png.png)
 
 ## 📈 Results
 
